@@ -1,2 +1,2 @@
 # Crecimiento-Poblacional-de-Mexico-al-2100
-Extrapolación usando Keras framework del crecimiento poblacional de México al año 2100.
+Extrapolación usando Keras framework del crecimiento poblacional de México al año 2100. Se realizaron pruebas con diferentes funciones de activacion y comprobaciones gráficas de costos tanto para el conjunto de pruebas como el de validación a lo largo de diferentes épocas. Proyecto realizado para la clase de Temas Selectos de Física Computacional impartida por el Dr Xim Bokhimi. El proyecto se realizó en lenguaje Python.
